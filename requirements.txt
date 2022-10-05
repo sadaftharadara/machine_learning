@@ -4,3 +4,8 @@ sklearn
 pandas
 numpy
 -e .
+pyYAML
+evidently
+dill
+matplotlib
+
